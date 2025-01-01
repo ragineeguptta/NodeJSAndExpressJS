@@ -1,0 +1,19 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "I am learning about NPM",
+  "license": "ISC",
+  "author": "Raginee",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^12.3.0",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superhero": "^2.14.24",
+    "superheroes": "^4.0.0"
+  }
+}
